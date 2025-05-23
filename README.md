@@ -20,12 +20,12 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 > Java 17 veya üstü yüklü olmalıdır. Geliştirme ortamı olarak Eclipse önerilir.
 
-##alternatif çalıştırma
+##Alternatif Çalıştırma Yolu
 
 Projeyi doğrudan Eclipse’e import etmek için:  
 [GMDB_Eclipse.zip indir](https://github.com/beratetikk/CENG106-GMDB-Proje/blob/main/GMDB/GMDBmovie.zip)
 
-### Açmak İçin:
+### Eclipse Üzerinden Açmak İçin:
 1. Eclipse → File → Import → General → Existing Projects into Workspace
 2. GMDBmovie.zip dosyasını seç → içinden proje otomatik tanınır.
 3. Finish → Proje hazır ve maine girerek çalıştırabilirsiniz
