@@ -1,5 +1,6 @@
 # GMDB – Gazi Movie Database 
 
+
 Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında geliştirilmiştir. GMDB, masaüstü bir film platformudur. Kullanıcılar film kategorilerine göre içerikleri görüntüleyebilir, yorum yapabilir, puan verebilir, öne çıkan filmleri görebilir ve favori filmlerini listeleyebilir.
 
 ##  Proje Ekibi
