@@ -4,8 +4,7 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 ##  Proje Ekibi
 
-Şevket Berat Tetik
-
+Şevket Berat Tetik 
 Alperen Örene       
 Muhammed Eymen Yiğit  
 Mustafa Kerem Kaya  
@@ -60,7 +59,7 @@ Projenin detaylı raporu CENG106_ID14_ProjeRaporu dosyasındadır.
 - GMDB.jar: Uygulamanın çalıştırılabilir hali
 - film.db: SQLite veritabanı
 - images/: Arayüzde kullanılan görseller
-- Movieappcodes.zip/: Java kaynak kodları
+- MovieAppCodes/src: Java kaynak kodları
 - CENG106_ID14_ProjeRaporu: Proje raporu
 
 ##  Katkılar ve Gelecek Planlar
