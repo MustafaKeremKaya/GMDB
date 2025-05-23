@@ -28,7 +28,7 @@ Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) i
 ## Alternatif Çalıştırma
 
 Projeyi doğrudan Eclipse’e import etmek için:  
-[GMDB_Eclipse.zip indir](https://github.com/MustafaKeremKaya/GMDB/blob/main/GMDB-project/GMDBmovie.zip)
+[GMDBmovie.zip indir](https://github.com/MustafaKeremKaya/GMDB/blob/main/GMDB-project/GMDBmovie.zip)
 
 ### Açmak İçin:
 1. Eclipse → File → Import → General → Existing Projects into Workspace
