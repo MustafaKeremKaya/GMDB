@@ -4,18 +4,10 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 ##  Proje Ekibi
 
-| İsim                 | Numara      | Şube    | Rol                         |
-
-|--------------------- |-------------|---------|-----------------------------|
-
-| Şevket Berat Tetik   | 23118080062 | 2. şube | Arayüz Tasarımı             |
-
-| Alperen Örene        | 23118080006 | 2. şube | Veritabanı Tasarımı         |
-
-|Muhammed Eymen Yiğit  | 23118080087 | 2. şube | OOP & Yorum/Puanlama        |
-
-|Mustafa Kerem Kaya    | 23118080045 | 2. şube | Ana Sayfa & MVC & Akış      |
-
+Şevket Berat Tetik
+Alperen Örene       
+Muhammed Eymen Yiğit  
+Mustafa Kerem Kaya  
 
 ##  Uygulamanın Çalıştırılması
 
@@ -26,17 +18,6 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 > Java 17 veya üstü yüklü olmalıdır. Geliştirme ortamı olarak Eclipse önerilir.
 
-## Alternatif Çalıştırma Yolu
-
-Projeyi doğrudan Eclipse’e import etmek için:  
-[GMDB_Eclipse.zip indir](https://github.com/beratetikk/CENG106-GMDB-Proje/blob/main/GMDB/GMDBmovie.zip)
-
-### Eclipse Üzerinden Açmak İçin:
-1. Eclipse → File → Import → General → Existing Projects into Workspace
-2. GMDBmovie.zip dosyasını seç → içinden proje otomatik tanınır.
-3. Finish → Proje hazır ve maine girerek çalıştırabilirsiniz
-
- 
 ##  Kullanılan Teknolojiler
 
 - *Java* dili
@@ -71,7 +52,7 @@ Projenin detaylı raporu CENG106_ID14_ProjeRaporu dosyasındadır.
 
 Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) için:  
  [GMDB klasörü (GitHub içindeki)]
-(https://github.com/beratetikk/CENG106-GMDB-Proje/tree/main/GMDB)
+(https://github.com/MustafaKeremKaya/GMDB/tree/main/GMDB-project)
 
 İçindekiler:
 - GMDB.jar: Uygulamanın çalıştırılabilir hali
@@ -79,7 +60,6 @@ Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) i
 - images/: Arayüzde kullanılan görseller
 - Movieappcodes.zip/: Java kaynak kodları
 - CENG106_ID14_ProjeRaporu: Proje raporu
-- 'GMDBmovie.zip': Projenin Eclips'te çalıştırılabilir hali
 
 ##  Katkılar ve Gelecek Planlar
 
