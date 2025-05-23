@@ -5,9 +5,17 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 ##  Proje Ekibi
 
 Şevket Berat Tetik
+
 Alperen Örene       
 Muhammed Eymen Yiğit  
 Mustafa Kerem Kaya  
+
+
+##  Dosyaları İndirme
+
+Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) için:  
+ [GMDB klasörü (GitHub içindeki)]
+(https://github.com/MustafaKeremKaya/GMDB/tree/main/GMDB-project)
 
 ##  Uygulamanın Çalıştırılması
 
@@ -47,12 +55,6 @@ GMDB proje sunum videosu(https://drive.google.com/drive/folders/1H30XvbgYlSZRlQr
 ##  Rapor
 
 Projenin detaylı raporu CENG106_ID14_ProjeRaporu dosyasındadır.
-
-##  Dosyaları İndirme
-
-Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) için:  
- [GMDB klasörü (GitHub içindeki)]
-(https://github.com/MustafaKeremKaya/GMDB/tree/main/GMDB-project)
 
 İçindekiler:
 - GMDB.jar: Uygulamanın çalıştırılabilir hali
