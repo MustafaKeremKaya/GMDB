@@ -4,10 +4,10 @@ Bu proje, CENG106 – Nesneye Dayalı Programlamaya Giriş dersi kapsamında gel
 
 ##  Proje Ekibi
 
-Şevket Berat Tetik 
-Alperen Örene       
-Muhammed Eymen Yiğit  
-Mustafa Kerem Kaya  
+| Şevket Berat Tetik    | 23118080062 | 2. şube |
+| Alperen Örene         | 23118080006 | 2. şube | 
+| Muhammed Eymen Yiğit  | 23118080087 | 2. şube | 
+| Mustafa Kerem Kaya    | 23118080045 | 2. şube | 
 
 
 ##  Dosyaları İndirme
@@ -19,9 +19,9 @@ Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) i
 ##  Uygulamanın Çalıştırılması
 
 ### Adımlar:
-1. Yukarıdaki linkten GMDB.jar, film.db ve images klasörünü indir.
-2. Hepsini *aynı klasörün içine koy*.
-3. GMDB.jar dosyasına çift tıkla.
+1. Yukarıdaki linkten GMDB.jar, film.db ve images klasörünü indiriniz.
+2. Hepsini aynı klasörün içine koyunuz.
+3. GMDB.jar dosyasına çift tıklayınız.
 
 > Java 17 veya üstü yüklü olmalıdır. Geliştirme ortamı olarak Eclipse önerilir.
 
@@ -32,8 +32,8 @@ Projeyi doğrudan Eclipse’e import etmek için:
 
 ### Açmak İçin:
 1. Eclipse → File → Import → General → Existing Projects into Workspace
-2. `GMDBmovie.zip` dosyasını seç → içinden proje otomatik tanınır.
-3. Finish → Proje hazır ve maine girerek çalıştırabilirsiniz
+2. `GMDBmovie.zip` dosyasını seçiniz → içinden proje otomatik tanınır.
+3. Finish → Proje hazır ve maine girerek çalıştırabilirsiniz.
 
 ##  Kullanılan Teknolojiler
 
