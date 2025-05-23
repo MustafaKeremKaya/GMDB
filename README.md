@@ -20,6 +20,14 @@ Tüm proje dosyaları (JAR dosyası, veritabanı, görseller ve kaynak kodlar) i
  [GMDB klasörü (GitHub içindeki)]
 (https://github.com/MustafaKeremKaya/GMDB/tree/main/GMDB-project)
 
+İçindekiler:
+- GMDB.jar: Uygulamanın çalıştırılabilir hali
+- film.db: SQLite veritabanı
+- images/: Arayüzde kullanılan görseller
+- MovieAppCodes/src: Java kaynak kodları
+- CENG106_ID14_ProjeRaporu: Proje raporu
+- GMDBmovie.zip: Eclips'te çalıştırmak için
+- 
 ##  Uygulamanın Çalıştırılması
 
 ### Adımlar:
@@ -68,14 +76,6 @@ GMDB proje sunum videosu(https://drive.google.com/drive/folders/1H30XvbgYlSZRlQr
 ##  Rapor
 
 Projenin detaylı raporu CENG106_ID14_ProjeRaporu dosyasındadır.
-
-İçindekiler:
-- GMDB.jar: Uygulamanın çalıştırılabilir hali
-- film.db: SQLite veritabanı
-- images/: Arayüzde kullanılan görseller
-- MovieAppCodes/src: Java kaynak kodları
-- CENG106_ID14_ProjeRaporu: Proje raporu
-- GMDBmovie.zip: Eclips'te çalıştırmak için
 
 ##  Katkılar ve Gelecek Planlar
 
